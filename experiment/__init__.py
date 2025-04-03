@@ -556,7 +556,7 @@ class PublicDisplayPage(Page):
             partner_choice_text = "No se asignó compañero"
         return {'partner_choice': partner_choice_text, 'current_question': current_question}
 
-
+# Hola
 
 class JudgeOpinionPage(Page):
     form_model = 'player'
