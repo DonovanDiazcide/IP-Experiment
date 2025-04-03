@@ -53,7 +53,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 # -----------------------------------------------------------------------------
-# Constants and Helper Functions
+# Constants and Helper Functions.
 # -----------------------------------------------------------------------------
 class C(BaseConstants):
     NAME_IN_URL = 'experiment'
